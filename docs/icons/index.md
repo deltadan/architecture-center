@@ -16,7 +16,7 @@ Helping our customers design and architect new solutions is core to the Azure Ar
 * In diagrams, we recommend to include the product name somewhere close to the icon 
 * Use the icons as they would appear within Azure 
 
-### Don’ts
+### Dont's
 
 * Don’t crop, flip or rotate icons
 * Don’t distort or change icon shape in any way
